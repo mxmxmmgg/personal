@@ -1,0 +1,10 @@
+.history
+.husky
+.vscode
+.next
+coverage
+public
+dist
+pnpm-lock.yaml
+build
+node_modules
